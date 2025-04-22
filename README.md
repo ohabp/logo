@@ -1,2 +1,5 @@
 # logo
-The OHABP logo
+
+![](./ohabp.svg)
+
+The OHABP logo.
